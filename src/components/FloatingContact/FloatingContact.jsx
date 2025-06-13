@@ -79,7 +79,7 @@ const FloatingContact = () => {
         footer={null}
         width={320}
       >
-        <QRCodeImage src="/figure.jpg" alt="客服二维码" />
+        <QRCodeImage src="./figure.jpg" alt="客服二维码" />
         <QRCodeText>扫一扫上面的二维码，加我为朋友</QRCodeText>
         <QRCodeText style={{ fontSize: '14px', color: '#666' }}>
           客服工作时间：7×24小时在线

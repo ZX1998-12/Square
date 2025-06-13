@@ -230,9 +230,9 @@ const Home = () => {
       title: '联系客服',
       content: (
         <div style={{ textAlign: 'center' }}>
-          <img src="/figure.jpg" alt="客服二维码" style={{ width: 200, height: 200, marginBottom: 16 }} />
+          <img src="./figure.jpg" alt="客服二维码" style={{ width: 200, height: 200, marginBottom: 16 }} />
           <p>扫码添加客服微信，获取专属服务</p>
-          <p>客服热线：400-888-8888</p>
+          <p>客服热线：17364338044</p>
         </div>
       ),
       width: 400,
